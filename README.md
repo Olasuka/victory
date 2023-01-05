@@ -20,5 +20,4 @@ Star-Spangled Banner yet wave
 O'er the land of the free
 And the home of the brave?
 
-Return
-.
+
